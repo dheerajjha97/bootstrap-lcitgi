@@ -17,7 +17,7 @@ const QuickLink=()=>{
       <Row>
         <Col sm> 
         
-        <Container fluid className="border display-1 border-success mx-auto"
+        <Container className="border display-1 border-success mx-auto"
 >
 <Icon.PeopleFill/>
         </Container>
