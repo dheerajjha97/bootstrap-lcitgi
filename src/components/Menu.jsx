@@ -8,7 +8,7 @@ return(
   <Navbar collapseOnSelect expand="lg" bg="light" sticky="top">
   <Container>
   <Navbar.Brand href="#home"> <img
-        src="https://stackblitz.com/files/react-hyvolc/github/dheerajjha97/bootstrap-lcitgi/master/src/assests/images(1).jpeg"
+        src="https://stackblitz.com/files/react-hyvolc/github/dheerajjha97/bootstrap-lcitgi/master/src/assests/images (1).jpeg"
         width="60"                      
         height="60"
         className="d-inline-block align-top"
