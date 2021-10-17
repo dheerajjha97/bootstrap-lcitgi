@@ -15,7 +15,7 @@ const QuickLink=()=>{
       <Row>
         <Col sm> 
         
-        <Container fluid className="border border-succes"
+        <Container fluid className="border  border-succes"
 >
 
         </Container>
