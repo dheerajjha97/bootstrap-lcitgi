@@ -19,7 +19,7 @@ const QuickLink=()=>{
         
         <Container fluid className="border  border-succes"
 >
-
+<Icon.PeopleFill/>
         </Container>
         
         </Col>
