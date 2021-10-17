@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 const QuickLink = () => {
   return (
-    <Container fluid>
+    <Container fluid className="mx-auto">
       <Row>
         <Col>
         <h2>Quick Links </h2>
