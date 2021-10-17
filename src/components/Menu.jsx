@@ -1,6 +1,6 @@
 import React from 'react';
 import {Nav,Navbar,NavDropdown,Container} from 'react-bootstrap';
-import logo from '../assests/logo.jpeg';
+import logo from '/assests/logo.jpeg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const  Menu=()=>{
@@ -8,8 +8,8 @@ return(
   <Navbar collapseOnSelect expand="lg" bg="light" sticky="top">
   <Container>
   <Navbar.Brand href="#home"> <img
-        src={logo}
-        width="60"
+        src="https://stackblitz.com/files/react-hyvolc/github/dheerajjha97/bootstrap-lcitgi/master/src/assests/images(1).jpeg"
+        width="60"                      
         height="60"
         className="d-inline-block align-top"
         alt="LCIT GROUP OF INSTITUTIONS"
