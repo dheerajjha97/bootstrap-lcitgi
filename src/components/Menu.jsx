@@ -1,6 +1,6 @@
 import React from 'react';
 import {Nav,Navbar,NavDropdown,Container} from 'react-bootstrap';
-
+import logo from '../assets/logo.jpeg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const  Menu=()=>{
@@ -8,7 +8,7 @@ return(
   <Navbar collapseOnSelect expand="lg" bg="light" sticky="top">
   <Container>
   <Navbar.Brand href="#home"> <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXk98TI4PGrH4ySC2Sic4d-_cZMzJFBCnRjw&usqp=CAU"
+        src={logo}
         width="60"
         height="60"
         className="d-inline-block align-top"
