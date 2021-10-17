@@ -13,7 +13,14 @@ const QuickLink=()=>{
       </Row>
 
       <Row>
-        <Col sm> of 1</Col>
+        <Col sm> 
+        
+        <Container fluid className="border border-succes"
+>
+
+        </Container>
+        
+        </Col>
         <Col sm>sm=true</Col>
         <Col sm>sm=true</Col>
         <Col sm>sm=true</Col>
